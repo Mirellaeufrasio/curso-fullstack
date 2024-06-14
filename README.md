@@ -5,7 +5,7 @@ Conteudo das aulas do curso fullstack
 ## Frontend
 
 -HTML
--CSS
--JS
 
-## Backend
+-CSS
+
+-JS
